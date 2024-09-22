@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Klayton258
-- 👀 I’m interested in code.
-- 🌱 I’m currently learning new languages everyday
+- 👋 Hi, I’m Klayton Massango
 - 💞️ I’m looking to collaborate on laravel projects, sdk projects, mobile apps, desktop softwares ...
 - 📫 How to reach me klayton0304massango+github@gmail.com
 
